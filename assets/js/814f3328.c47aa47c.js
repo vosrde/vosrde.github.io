@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvosrde_github_io=self.webpackChunkvosrde_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Set OEM license key during deployment","permalink":"/blog/oem-license-key","unlisted":false,"date":"2020-01-31T00:00:00.000Z"}]}')}}]);
